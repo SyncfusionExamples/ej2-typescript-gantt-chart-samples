@@ -1,0 +1,6 @@
+@RemoteSaveAdaptor.Server_HostAddress = http://localhost:5024
+
+GET {{RemoteSaveAdaptor.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

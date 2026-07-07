@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CustomAdaptor.client/CustomAdaptor.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="CustomAdaptor.Server/CustomAdaptor.Server.csproj" />
+</Solution>
