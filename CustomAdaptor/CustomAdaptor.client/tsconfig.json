@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "moduleResolution": "nodenext",
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es2016",
+    "module": "NodeNext"
+  },
+  "exclude": [
+    "node_modules",
+    "wwwroot"
+  ]
+}

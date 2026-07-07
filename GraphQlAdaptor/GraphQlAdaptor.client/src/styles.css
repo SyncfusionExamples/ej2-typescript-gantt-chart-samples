@@ -1,0 +1,11 @@
+/* Custom styles for the Gantt GraphQlAdaptor sample.
+   The Syncfusion Material 3 theme is loaded via CDN links in index.html. */
+#container {
+    margin: 24px auto;
+    max-width: 1200px;
+    padding: 0 16px;
+}
+
+#Gantt {
+    width: 100%;
+}
